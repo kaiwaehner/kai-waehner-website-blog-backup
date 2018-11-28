@@ -1,0 +1,12 @@
+<?php
+/*
+#####################################################################################################
+# Um sich die PHP Funktionen anzeigen zu lassen, benennen Sie diese Datei bitte in info.php um.     #
+# Vergessen Sie anschließend nicht diese Datei von Ihrem Webspace wieder zu entfernen. Vielen Dank! # 
+#####################################################################################################
+*/
+?>
+
+<?php
+    phpinfo();
+?>
